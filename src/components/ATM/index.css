@@ -1,0 +1,24 @@
+.AtmContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    gap:40px;
+}
+
+
+.buttonsContainer {
+    display: flex;
+}
+
+.AtmContainer button {
+    background-color: #674188;
+    color:#FFFBF5;
+    width: 125px;
+    height: 50px;
+    border:none;
+}
+.leftButton {
+    border-radius: 15px 0px 0px 15px;
+}

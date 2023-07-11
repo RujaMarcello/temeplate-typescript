@@ -1,0 +1,29 @@
+.sideProperty {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    
+  }
+  
+  .createAccountSide {
+    background-color: #FFFBF5 ;
+    padding: 30px;
+    color:#674188;
+  }
+  
+  .accessAccountSide{
+    background-color:#C3ACD0 ;
+    color:#F7EFE5;
+    padding: 30px;
+  }
+  
+  .createAccountSide:hover {
+   background-color: #F7EFE5;
+  
+  }
+  
+  .accessAccountSide:hover{
+    background-color:#674188;
+  }
+  

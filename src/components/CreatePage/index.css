@@ -1,0 +1,31 @@
+.createPageContainer {
+    padding: 20px;
+
+}
+
+.createPageContainer h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.formContainer {
+    display: flex;
+    flex-direction: column;
+    gap:10px;   
+}
+
+input {
+    border-radius: 5px;
+    border: none;
+    height: 25px;
+    width: 250px;
+}
+
+.createPageContainer button {
+    border-radius: 15px;
+    background-color: #674188;
+    color:#FFFBF5;
+    border:none;
+    padding: 5px;
+}
